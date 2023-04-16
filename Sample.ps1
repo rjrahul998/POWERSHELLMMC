@@ -34,7 +34,7 @@ Update-Help
 Write-Output "Hello World"
 
 #Hello Universe
-Write-Output "Hello Universe"
+#Write-Output "Hello Universe"
 
 #Use a variable
 $name = "John"
